@@ -1,2 +1,2 @@
 # Emotion-Intensity-Prediction
-NLP Assignment-3
+Feature extraction, sentiment analysis and emotion intensity prediction 
